@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionDB {
     private String url = "jdbc:postgresql://database-etudiants:5432/hrahman";
     private String user = "hrahman";
-    private String passwd = "BLABAL";
+    private String passwd = "Bangladesh.2021";
 
     /**
      * Objet Connection
